@@ -2,9 +2,9 @@
     <string name="appName" translatable="false">Stratum</string>
     <string name="displayName" translatable="false">Authenticator</string>
     
-    <string name="githubRepo" translatable="false">https://github.com/stratumauth/app</string>
+    <string name="githubRepo" translatable="false">https://github.com/sidnvt/AxtAuth</string>
     <string name="website" translatable="false">https://stratumauth.com</string>
-    <string name="buyMeACoffee" translatable="false">https://www.buymeacoffee.com/jamiemh</string>
+    <string name="buyMeACoffee" translatable="false"></string>
     <string name="contactEmail" translatable="false">bpmu`dsAing/lf</string>
 
     <!-- 
@@ -55,9 +55,9 @@
     <string name="supportDevelopment">Support development</string>
     <string name="supportDevelopmentSummary">Support continued development and updates with Buy Me a Coffee</string>
     <string name="rate">Rate</string>
-    <string name="rateSummary">Rate Stratum on the Google Play Store</string>
+    <string name="rateSummary">Rate AxtAuth on the Google Play Store</string>
     <string name="viewGitHub">View on GitHub</string>
-    <string name="viewGitHubSummary">View the Stratum repository on GitHub. You can report an issue, request more icons and features.</string>
+    <string name="viewGitHubSummary">View the AxtAuth repository on GitHub. You can report an issue, request more icons and features.</string>
 
     <!--
         Authenticator
@@ -144,7 +144,7 @@
     <string name="noAuthenticatorsTitle">Nothing here!</string>
     <string name="noAuthenticatorsMessage">You don\'t have any authenticators here</string>
     <string name="gettingStartedGuide">Getting started guide</string>
-    <string name="noAuthenticatorsHelp">If you\'re new to Stratum, view the getting started guide by clicking below.</string>
+    <string name="noAuthenticatorsHelp">If you\'re new to AxtAuth, view the getting started guide by clicking below.</string>
     <string name="noCategoriesTitle">No categories</string>
     <string name="noCategoriesMessage">You don\'t have any categories set up yet</string>
     <string name="noIconPacksTitle">No icon packs</string>
@@ -509,8 +509,8 @@
     <string name="introCategoriesTitle">Categories</string>
     <string name="introThemesTitle">Dark theme</string>
 
-    <string name="introWelcomeSummary">Thanks for downloading Stratum.\nKeep your online accounts secure and protected with the best open-source authentication app.</string>
-    <string name="introCompatibilitySummary">Stratum is compatible with most providers and accounts. It is 100% compatible with Google Authenticator enabled services.</string>
+    <string name="introWelcomeSummary">Thanks for downloading AxtAuth.\nKeep your online accounts secure and protected with the best open-source authentication app.</string>
+    <string name="introCompatibilitySummary">AxtAuth is compatible with most providers and accounts. It is 100% compatible with Google Authenticator enabled services.</string>
     <string name="introBackupSummary">Backup your authenticators with strong encryption. In case you lose your device, you can always gain access to your accounts. Save to cloud storage or to your device.</string>
     <string name="introCategoriesSummary">Organise your authenticators into categories and even change the order with a simple hold and drag.</string>
     <string name="introThemesSummary">If you prefer, you can enable a dark theme in the settings. All icons will adapt to match their new background.</string>
